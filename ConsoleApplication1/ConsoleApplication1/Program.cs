@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("pipl mast trast as");
+            Console.WriteLine("os se tuc??!?!?!?!");
         }
     }
 }
